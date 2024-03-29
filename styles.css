@@ -1,1 +1,31 @@
-/* your code here */
+*{
+	background-color:#87A922;
+}
+.product{
+	height:500px;
+	width:500px;
+	display:flex;
+	justify-content:space-between;
+	
+	}
+.photo-main > img{
+	width:400px;
+	background-color:#114232
+
+}
+.photo-album > ul > li > img{
+	background-color:#FCDC2A;
+	
+	
+}
+ul{
+	display:flex;
+	list-style:none;
+	gap:2px;
+	}
+button{
+	width:150px;
+	height:50px;
+	background-color:red;
+}
+
